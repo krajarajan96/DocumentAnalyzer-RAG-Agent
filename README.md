@@ -5,7 +5,7 @@ An intelligent, web-based Retrieval-Augmented Generation (RAG) assistant built u
 
 ```html
 <div align="center">
-  <img width="1710" height="1032" alt="Image" src="https://github.com/user-attachments/assets/899567fe-ff1e-40c0-8624-20ea9fc87b5f" />
+  <img src="https://github.com/user-attachments/assets/899567fe-ff1e-40c0-8624-20ea9fc87b5f" width="700px" alt="App Dashboard">
 </div>
 ```
 
