@@ -3,6 +3,12 @@ Markdown
 
 An intelligent, web-based Retrieval-Augmented Generation (RAG) assistant built using **LangGraph**, **Streamlit**, and **ChromaDB**. This application allows users to dynamically upload any PDF document, builds an in-memory vector database on the fly, and utilizes a state-machine agent powered by Groq's Llama-3.1 model to answer complex questions with precise document context citations.
 
+```html
+<div align="center">
+  <img width="1710" height="1032" alt="Image" src="https://github.com/user-attachments/assets/899567fe-ff1e-40c0-8624-20ea9fc87b5f" />
+</div>
+```
+
 ---
 
 ## 🚀 Getting Started
